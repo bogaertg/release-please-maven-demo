@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.0.0](https://github.com/bogaertg/release-please-maven-demo/compare/v1.0.0...v2.0.0) (2025-01-06)
+
+
+### ⚠ BREAKING CHANGES
+
+* update README.md
+
+### Features
+
+* update README.md ([0872f0f](https://github.com/bogaertg/release-please-maven-demo/commit/0872f0f40127773a217132e931fc25baf83fa07e))
+* update README.md ([df3dd25](https://github.com/bogaertg/release-please-maven-demo/commit/df3dd251900aac2ac163c42565fff806b1133def))
+
 ## 1.0.0 (2024-12-24)
 
 
